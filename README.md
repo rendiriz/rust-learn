@@ -1,4 +1,5 @@
 # Learn Rust Lang
 
 - Variables and Mutability
-- Data Types 
+- Data Types
+- Functions
