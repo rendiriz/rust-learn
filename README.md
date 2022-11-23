@@ -11,3 +11,6 @@
 - What is Ownership?
 - References and Borrowing
 - The Slice Type
+
+## Structs
+- Defining and Instantiating Structs
