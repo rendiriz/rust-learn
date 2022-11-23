@@ -1,5 +1,5 @@
 fn main() {
-    // #3 Functions
+    // #3.3 Functions
 
     println!("Hello, world!");
     another_function();

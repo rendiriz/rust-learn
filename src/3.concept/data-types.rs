@@ -1,5 +1,5 @@
 fn main() {
-    // #2 Data Types
+    // #3.2 Data Types
 
     // let guess: u32 = "not number".parse().expect("Not a number!");
     let guess: u32 = "42".parse().expect("Not a number!");
