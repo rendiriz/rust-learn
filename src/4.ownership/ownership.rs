@@ -46,7 +46,7 @@ fn main() {
     let x = 5;
     makes_copy(x);
 
-    // println!("s = {}", s); // This error because ownership use clone
+    // println!("s = {}", s); // This error because ownership use clone or reference
     println!("t = {}", t); // This work use clone
     println!("x = {}", x);
 
@@ -56,7 +56,7 @@ fn main() {
     let s3 = takes_and_gives_back(s2);
 
     println!("s1 = {}", s1);
-    // println!("s2 = {}", s2); // This error because ownership use clone
+    // println!("s2 = {}", s2); // This error because ownership use clone or reference
     println!("s3 = {}", s3);
 
     /* Using Tuple */
